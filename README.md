@@ -1,2 +1,2 @@
 # Hyperion
-Hyperion - Website
+Hyperion - Projects
